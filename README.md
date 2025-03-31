@@ -12,7 +12,9 @@ Mama’s Kitchen is a beautifully designed restaurant website built using **HTML
 ## 🛠️ Technologies Used  
 - **HTML** – Structure of the website  
 - **CSS** – Styling and responsiveness  
-- **JavaScript** – Interactivity  
+- **JavaScript** – Interactivity
+
+##Demo link-https://samithspalan.github.io/Mamas-Kitchen/
 
 ## 🚀 How to Run Locally  
 1. **Clone the repository**  
