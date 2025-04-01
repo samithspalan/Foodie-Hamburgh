@@ -1,5 +1,4 @@
-# 🍽️ Mama's Kitchen  
-
+# 🍽️ Foodie-Hamburgh 
 ### **A Simple Restaurant Website**  
 
 Mama’s Kitchen is a beautifully designed restaurant website built using **HTML, CSS, and JavaScript**. It showcases a modern, responsive layout for an engaging user experience.  
